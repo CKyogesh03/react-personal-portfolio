@@ -1,5 +1,5 @@
 import React from "react";
-import { MdOutlineKeyboardArrowRight, MdOutlineKeyboardDoubleArrowDown } from "react-icons/md";
+import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
 const Home = () => {
@@ -38,31 +38,9 @@ const Home = () => {
               </span>
             </Link>
           </div>
-          <div>
-              <a
-              href="/YOGESH_CK_resume.pdf"
-              className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-green-500 to-green-500 cursor-pointer"
-              download= "YOGESH_CK_resume.pdf"
-            >
-              Resume
-            </a>
-              
-            {/* </Link> */}
+       
           </div>
-          </div>
-          <div>
-            <Link
-              to="contact"
-              smooth
-              duration={500}
-              className="text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer"
-            >
-              Scroll down
-              <span className="">
-                <MdOutlineKeyboardDoubleArrowDown size={25} className="ml-1" />
-              </span>
-            </Link>
-          </div>
+    
         </div>
       </div>
     </div>
