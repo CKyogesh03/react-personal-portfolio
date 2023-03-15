@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-personal-portfolio/static/css/main.51be7252.css",
+    "main.js": "/react-personal-portfolio/static/js/main.c81516b4.js",
+    "static/media/libraryapp.jpg": "/react-personal-portfolio/static/media/libraryapp.acc9976b236d3e7e8e5e.jpg",
+    "static/media/personalPortfolio.jpg": "/react-personal-portfolio/static/media/personalPortfolio.6e81619caf4864bec326.jpg",
+    "static/media/employeeManagement.jpg": "/react-personal-portfolio/static/media/employeeManagement.62b24dd8de8adfb29a13.jpg",
+    "index.html": "/react-personal-portfolio/index.html",
+    "main.51be7252.css.map": "/react-personal-portfolio/static/css/main.51be7252.css.map",
+    "main.c81516b4.js.map": "/react-personal-portfolio/static/js/main.c81516b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51be7252.css",
+    "static/js/main.c81516b4.js"
+  ]
+}
