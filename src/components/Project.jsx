@@ -1,8 +1,6 @@
 import React from "react";
 import employeeManagement from "../images/employeeManagement.jpg";
 import personalPortfolio from "../images/personalPortfolio.jpg";
-import libraryapp from "../images/libraryapp.jpg";
-
 
 const Project = () => {
   const projects = [
@@ -10,19 +8,15 @@ const Project = () => {
       id: 1,
       src: employeeManagement,
       project: "Employee crud",
+      link:"https://github.com/CKyogesh03/employee-management-crud"
       // view: "code",
     },
     {
       id: 2,
       src: personalPortfolio,
       project: "Portfolio",
+      link:"https://github.com/CKyogesh03/react-personal-portfolio"
       // view:"demo",
-    },
-    {
-      id: 3,
-      src: libraryapp,
-      project: "Library app",
-      // view:"Development inprogress",
     },
     
   ];
@@ -41,7 +35,7 @@ const Project = () => {
         </div>
 
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-          {projects.map(({ id, src,project}) => (
+          {projects.map(({ id, src,project,link}) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <img
                 src={src}
@@ -51,7 +45,7 @@ const Project = () => {
               <div className="flex items-center justify-center">
                 
                 <button className="w-fit px-6 py-3 m-4 duration-200 hover:scale-105">
-                  {project}
+                  <a href={link} target="_blank" rel="noreferrer">{project}</a>
                 </button>
                 {/* <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   {view}
