@@ -15,10 +15,10 @@ const Home = () => {
             Hello 
           </h2>
           <h2 className="text-4xl sm:text-7xl font-bold text-black">
-            I'm Yogesh - curios
+            I'm Yogesh C.K
           </h2>
           <h2 className="text-4xl sm:text-7xl font-bold text-black">
-            developer  based in Chennai, India
+            Fullstack developer Chennai, India
           </h2>
           <div className="flex flex-row gap-6">
           <div>

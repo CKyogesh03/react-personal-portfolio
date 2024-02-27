@@ -30,7 +30,6 @@ const Contact = () => {
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Contact
           </p>
-          <h2 className="py-6"> Let's Work Together - If You Give Me a Chance</h2>
         </div>
 
         <div className=" flex justify-start items-center">

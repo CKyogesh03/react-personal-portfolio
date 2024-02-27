@@ -1,21 +1,21 @@
 import React from "react";
 import employeeManagement from "../images/employeeManagement.jpg";
-import personalPortfolio from "../images/personalPortfolio.jpg";
+import bookStore from "../images/bookStore.jpg";
 
 const Project = () => {
   const projects = [
     {
       id: 1,
       src: employeeManagement,
-      project: "Employee crud",
+      project: "Employee CRUD",
       link:"https://github.com/CKyogesh03/employee-management-crud"
       // view: "code",
     },
     {
       id: 2,
-      src: personalPortfolio,
-      project: "Portfolio",
-      link:"https://github.com/CKyogesh03/react-personal-portfolio"
+      src: bookStore,
+      project: "Book Store",
+      link:"https://github.com/CKyogesh03/book-store-MERN-stack"
       // view:"demo",
     },
     

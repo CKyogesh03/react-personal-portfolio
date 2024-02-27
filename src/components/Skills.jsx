@@ -72,17 +72,18 @@ const Skills = () => {
             <div
               className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg shadow-green-500`}
             >
-              <>
-              <SiSpringboot size={30} />
-              </>
-              <p className="mt-4">Spring Boot</p>
+              <p className="mt-4">Spring</p>
+     
             </div>
 
             <div
               className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg shadow-red-500`}
             >
+              <>
+              <SiSpringboot size={30} />
+              </>
+              <p className="mt-4">Spring Boot</p>
               
-              <p className="mt-4">Spring MVC</p>
             </div>
 
             <div

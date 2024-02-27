@@ -13,7 +13,7 @@ const Education = () => {
           </p>
         </div>
        
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-5">
           <b>Master Of Computer Applications </b> | Guru Nanak College, Chennai, Tamil Nadu, India <br/>
           Nov 2020 - Jul 2022 <br/>
           Percentage: 84%
