@@ -20,10 +20,6 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-black">
             developer  based in Chennai, India
           </h2>
-          <h1 className="font-bold">Learning Java Full Stack Development</h1>
-          <p className="text-gray-500 py-4 max-w-md">
-            I have completed 3 months web development internship, <br></br>I love to learn web applications and new technologies.
-          </p>
           <div className="flex flex-row gap-6">
           <div>
             <Link
