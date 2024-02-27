@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-personal-portfolio/static/css/main.e77a8195.css",
-    "main.js": "/react-personal-portfolio/static/js/main.81c9e3bb.js",
-    "static/media/personalPortfolio.jpg": "/react-personal-portfolio/static/media/personalPortfolio.6e81619caf4864bec326.jpg",
+    "main.css": "/react-personal-portfolio/static/css/main.fa61a35c.css",
+    "main.js": "/react-personal-portfolio/static/js/main.afda8eaa.js",
     "static/media/employeeManagement.jpg": "/react-personal-portfolio/static/media/employeeManagement.62b24dd8de8adfb29a13.jpg",
+    "static/media/bookStore.jpg": "/react-personal-portfolio/static/media/bookStore.ad86c49c66ac29ff1adc.jpg",
     "index.html": "/react-personal-portfolio/index.html",
-    "main.e77a8195.css.map": "/react-personal-portfolio/static/css/main.e77a8195.css.map",
-    "main.81c9e3bb.js.map": "/react-personal-portfolio/static/js/main.81c9e3bb.js.map"
+    "main.fa61a35c.css.map": "/react-personal-portfolio/static/css/main.fa61a35c.css.map",
+    "main.afda8eaa.js.map": "/react-personal-portfolio/static/js/main.afda8eaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e77a8195.css",
-    "static/js/main.81c9e3bb.js"
+    "static/css/main.fa61a35c.css",
+    "static/js/main.afda8eaa.js"
   ]
 }
